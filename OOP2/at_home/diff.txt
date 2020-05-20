@@ -1,0 +1,14 @@
+In line number 14 of your output:
+The output should be:
+Enter subject name: OO Programming 1
+                    ^
+But your output is: 
+Enter subject name: 20
+                    ^
+
+Unmatched character details:
+The character in column 21 is supposed to be:
+  [O] ASCII code(79)
+but you printed
+  [2] ASCII code(50)
+

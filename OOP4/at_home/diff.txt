@@ -1,0 +1,14 @@
+In line number 104 of your output:
+The output should be:
+An unknown bouquet has departed...
+           ^
+But your output is: 
+An unknown flower has departed...
+           ^
+
+Unmatched character details:
+The character in column 12 is supposed to be:
+  [b] ASCII code(98)
+but you printed
+  [f] ASCII code(102)
+

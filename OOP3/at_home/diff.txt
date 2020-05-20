@@ -1,0 +1,14 @@
+In line number 32 of your output:
+The output should be:
+Empty Mark object!
+^
+But your output is: 
+-0.05
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [E] ASCII code(69)
+but you printed
+  [-] ASCII code(45)
+

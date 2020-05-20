@@ -1,0 +1,14 @@
+In line number 23 of your output:
+The output should be:
+Purity: 20
+        ^
+But your output is: 
+Purity: 600
+        ^
+
+Unmatched character details:
+The character in column 9 is supposed to be:
+  [2] ASCII code(50)
+but you printed
+  [6] ASCII code(54)
+

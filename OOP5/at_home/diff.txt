@@ -1,0 +1,14 @@
+In line number 53 of your output:
+The output should be:
+At least one of the Robots isn't operational. No bout will be had.
+       ^
+But your output is: 
+At leasst one of the Robots isn't operational. No bout will be had.
+       ^
+
+Unmatched character details:
+The character in column 8 is supposed to be:
+  [t] ASCII code(116)
+but you printed
+  [s] ASCII code(115)
+
